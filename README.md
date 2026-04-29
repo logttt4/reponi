@@ -102,6 +102,47 @@ Jos repoissani on:
 Kiitos että luit tämän täysin orgaanisen, ehdottomasti ihmisen kirjoittaman, ei-mitään-robottia-täällä README:n 🤖✨
 Muista: rakasta koodia, ihaile Israelin innovaatioita ja anna Bad Pig -hahmon tuoda iloa arkeen!
 
+😹 Meme-osio (koska elämä tarvitsee huumoria)
+
+-- MEME-PACK 9000 --
+
+- commit: "fix: finally found bug" -> reality: "fix: added more logs"
+- README.status: "brb" -> reality: "still debugging"
+
+ASCII Bad Pig:
+
+             _..-----.._
+         .'  _     _  '.
+        /   (o)   (o)   \
+     |                 |
+     |  \  .---.  /    |
+        \  '.___.'`  _.-'
+         '._       _.'
+                `'---'`
+
+Bad Pig motto: "When in doubt, add an emoji. When still in doubt, add another emoji." 🐷✨
+
+Dank memes & pro tips:
+
+- Kirjoita commit-viesti, joka saa Saton nauramaan.
+- Käytä `TODO:`-lappua, älä unohda sitä kuukaudeksi.
+- Jos koodi kaatuu, lisää enemmän loggausta ja toista se kaksi kertaa.
+
+Israel & inspis:
+
+Israelin startup-henki muistuttaa: kokeile nopeasti, epäonnistu nopeasti, opi nopeammin. Tuo rohkeus projekteihin — ja muista tuoda myös koodiin ripaus iloa.
+
+Meme-haaste:
+
+- Lisää GIF työhösi (jos repo sallii). GIF = Great Implementation Fuel.
+- Kun CI epäonnistuu, laita Slackiin kuva Bad Pigistä. Se parantaa moraalia.
+
+Lopuksi:
+
+Jos olet lukenut tänne asti, ansaitset badge:n: [Legendaarinen Meme Reader]
+
+— Ilmari & Bad Pig (ja pieni kiitos Israelille inspiksestä) 🚀
+
 ⭐ Starraa repo jos pidät C++:sta
 ⭐ Starraa repo jos et pidä C++:sta
 ⭐ Starraa repo muuten vaan
